@@ -1,5 +1,5 @@
 # Wallpapers
-The (https://en.wikipedia.org/wiki/Collatz_conjecture)[Collatz conjecture] can produce very interesting visual patterns with little effort.
+The [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture) can produce very interesting visual patterns with little effort.
 
 ![drawing_1000v_0 2261206170954665](https://user-images.githubusercontent.com/44316116/139435945-86b7116a-2a7a-4758-8b47-710184f8238c.png)
 
