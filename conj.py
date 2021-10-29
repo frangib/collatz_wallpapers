@@ -4,7 +4,7 @@ import pandas as pd
 import os
 
 
-N = 100000      # Max computed seed is 10.000.000   
+N = 100000      #<------------
 FIG_WIDTH = 10
 FIG_HEIGHT = 7
 HIST_BINS = 100
