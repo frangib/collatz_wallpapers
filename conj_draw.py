@@ -3,11 +3,11 @@ import math
 import random
 
 N = 200
-HEIGHT = 3104
-WIDTH = 4672
+HEIGHT = 3104 #<---------Image height in pixels
+WIDTH = 4672  #<---------Image width in pixels
 GOLDEN_RULE = 0.5*(1 + 5**0.5)
 DISTANCE = 80
-THETA_ODD = 0#math.pi/16
+THETA_ODD = 0#math.pi/16 #<---------Inclination angle of the line segments
 THETA_EVEN = -GOLDEN_RULE*THETA_ODD
 LINE_WIDTH = 10
 
